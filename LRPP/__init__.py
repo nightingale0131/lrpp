@@ -1,0 +1,3 @@
+BLOCKED = 1
+UNBLOCKED = 0
+
