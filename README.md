@@ -1,5 +1,5 @@
-# Learned Reactive Policy (LRPP)
-LRPP implementation on a simple grid
+# Learned Reactive Planning Problem (LRPP)
+Implementation of a solution to the LRPP on a simple grid.
 
 A demo can be ran by executing the following in the LRPP folder:
 
